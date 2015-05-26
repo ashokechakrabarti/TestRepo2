@@ -3,8 +3,8 @@
 
 **First**
 * bullet
-#bullet
-li bullet
+* bullet
+* bullet
 
 ***Second***
 
